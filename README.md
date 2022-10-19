@@ -73,7 +73,8 @@ App will essentially be a clone of Spotify. Users will be able to log in and see
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="img1.png" width=600>
+<img src="img2.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
