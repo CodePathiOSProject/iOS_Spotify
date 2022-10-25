@@ -98,3 +98,5 @@ Time spent: **x** hours spent in total
 - [ ] User sees app icon in the home screen
 - [x] User sees load screen with logo
 - [x] User is directed to login screen on launch
+- [ ] User can create an account
+- [ ] User can log in
