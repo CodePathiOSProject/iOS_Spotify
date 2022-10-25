@@ -91,3 +91,7 @@ App will essentially be a clone of Spotify. Users will be able to log in and see
 
 
 <img src='https://i.imgur.com/diRWN4h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/diRWN4h.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://im.ezgif.com/tmp/ezgif-1-df8596bbc3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
