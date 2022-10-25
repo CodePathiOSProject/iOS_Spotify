@@ -98,4 +98,5 @@ App will essentially be a clone of Spotify. Users will be able to log in and see
 
 <img src='https://i.imgur.com/diRWN4h.gif' with=600/>
 
-![](https://i.imgur.com/diRWN4h.gif)
+![](https://github.com/CodePathiOSProject/iOS_Spotify/blob/main/ezgif.com-gif-maker%20(7).gif)
+
