@@ -91,6 +91,7 @@ App will essentially be a clone of Spotify. Users will be able to log in and see
 
 ![](https://github.com/CodePathiOSProject/iOS_Spotify/blob/main/ezgif.com-gif-maker%20(7).gif)
 
-- [] User sees app icon in the home screen
-- [x] User sees load screen with logo
-- [x] User is directed to login screen on launch
+Sprint 1 User stories
+*- [] User sees app icon in the home screen
+*- [x] User sees load screen with logo
+*- [x] User is directed to login screen on launch
