@@ -81,13 +81,38 @@ App will essentially be a clone of Spotify. Users will be able to log in and see
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
 [Add table of models]
+#### Post
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | song     | String   | song name |
+   | artist        | String| song artist |
+   | image         | File     | song image (album cover or NA if none) |
+   | releaseDate       | DateTime   | song release date |
+   | likesCount    | Number   | number of likes for the song |
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+#### List of network requests by screen
+   - Home Feed Screen
+      - (Read/GET) Query all songs where user is artist
+      - (Create/POST) Create a new like on a song
+      - (Delete) Delete existing like on song
+   - Create Post Screen
+      - (Create/POST) Create a new song object
+   - Profile Screen
+      - (Read/GET) Query logged in user object
+#### [OPTIONAL:] Existing API Endpoints
+##### Spotify Web API
+- Base URL - [https://developer.spotify.com/documentation/web-api/](https://developer.spotify.com/documentation/web-api/)
+
+   HTTP Verb | Endpoint | Description
+   ----------|----------|------------
+    `GET`    | /song/url | gets song url
+    `GET`    | /song | gets song name
 
 ![](https://github.com/CodePathiOSProject/iOS_Spotify/blob/main/ezgif.com-gif-maker%20(7).gif)
 
