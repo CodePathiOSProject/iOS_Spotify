@@ -88,3 +88,6 @@ App will essentially be a clone of Spotify. Users will be able to log in and see
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+<img src='https://i.imgur.com/diRWN4h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
