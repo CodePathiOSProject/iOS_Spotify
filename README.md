@@ -89,14 +89,8 @@ App will essentially be a clone of Spotify. Users will be able to log in and see
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
-
-<img src='https://i.imgur.com/diRWN4h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='https://i.imgur.com/diRWN4h.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='https://im.ezgif.com/tmp/ezgif-1-df8596bbc3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='https://i.imgur.com/diRWN4h.gif' with=600/>
-
 ![](https://github.com/CodePathiOSProject/iOS_Spotify/blob/main/ezgif.com-gif-maker%20(7).gif)
 
+- [] User sees app icon in the home screen
+- [x] User sees load screen with logo
+- [x] User is directed to login screen on launch
